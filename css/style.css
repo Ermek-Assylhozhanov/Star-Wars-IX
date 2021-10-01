@@ -10,7 +10,7 @@
 }
 
 body {
-	background: #070506 url("/img/main-bg.png") top right 100% no-repeat;
+	background: #070506 url("img/main-bg.png") top right 100% no-repeat;
 	color: #fff;
 	font-family: "Roboto", sans-serif;
 }
@@ -87,7 +87,7 @@ body {
 	position: absolute;
 	width: 60px;
 	height: 60px;
-	background: #fff url("/img/play.svg") center no-repeat;
+	background: #fff url("img/play.svg") center no-repeat;
 	right: -12px;
 	top: -8px;
 	border: 8px solid rgba(255, 255, 255, 0.3);
